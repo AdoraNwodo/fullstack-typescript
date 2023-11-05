@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  fullstack-typescript:appPath: ./app
+  fullstack-typescript:errorDocument: error.html
+  fullstack-typescript:indexDocument: index.html
+  fullstack-typescript:sitePath: ./www
